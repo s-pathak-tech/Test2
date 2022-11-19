@@ -1,1 +1,4 @@
-This is optional
+<<<<<<< HEAD
+=======
+This is main file with optiions
+>>>>>>> main
