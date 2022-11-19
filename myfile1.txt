@@ -2,5 +2,4 @@
 =======
 This is main file with optiions that can be updated by bug this is very important to add branches in Git Hub
 welcome back
-This id done by pathakdev
 >>>>>>> main
