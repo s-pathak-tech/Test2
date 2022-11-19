@@ -1,1 +1,4 @@
-This is main file
+<<<<<<< HEAD
+=======
+This is main file with optiions
+>>>>>>> main
